@@ -9,7 +9,11 @@ My interests in data science center around Machine Learning and NLP, and here ar
 - Big Data
 - Natural Language Understanding (by Sam Bowman)
 - Natural Language Processing
-- Machine Learning for Healthcare 
+- Machine Learning for Healthcare
+- Advanced Python for data science
+- Causal Inferece
+- Text as Data (R)
+- Capstone (internship with Zillow group) 
 
 I am also fluent in Python, R and SQL.
 
