@@ -2,13 +2,13 @@
 
 I am a second-year master student at [NYU Center for Data Science](https://cds.nyu.edu/). Before studying data science, I earned my Bachelor Degree of Art in Mathematics and Economics at NYU Courant Institution.
 
-My interests in data science center around Machine Learning and NLP, and here relavant courses I have taken at CDS:
+My interests in data science center around Machine Learning and NLP, and here are relevant courses I have taken at CDS:
 - Introduction to Data Science
 - Probability and Statistics for Data Science
 - Machine Learning
 - Big Data
 - Natural Language Understanding (by Sam Bowman)
-- Natural Lanaguage Processing
+- Natural Language Processing
 - Machine Learning for Healthcare 
 
 I am also fluent in Python, R and SQL.
