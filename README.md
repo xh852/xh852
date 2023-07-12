@@ -1,6 +1,6 @@
 ### Hello! This is Xu (Shoo)! ☺️
 
-I am a second-year master student at [NYU Center for Data Science](https://cds.nyu.edu/). Before studying data science, I earned my Bachelor Degree of Art in Mathematics and Economics at NYU Courant Institution.
+I graduated with master degree in data science from [NYU Center for Data Science](https://cds.nyu.edu/). Before studying data science, I earned my Bachelor Degree of Art in Mathematics and Economics at NYU Courant Institution.
 
 My interests in data science center around Machine Learning and NLP, and here are relevant courses I have taken at CDS:
 - Introduction to Data Science
