@@ -17,7 +17,9 @@ My interests in data science center around Machine Learning and NLP, and here ar
 
 I am also fluent in Python, R and SQL.
 
+In terms of natural language, I am flent in Mandarin and English and am studying Cantonese - 我白話講得麻麻哋 ;)
+
 I am now working as a data engineer at [O-Lab](https://www.nyuolab.org/) at NYU Langone Hospital. I worked at NYU Marron Institution of Urban Management as a data science research fellow. Our team worked with Illinios Department of Corrention and my responsibility was to build an interactive dashboard reflecting prison and parole population data.
 
-Outside the classroom, I love hiking, baking, film photography and hanging out with my dog 🐶 Kimchi! <img src="https://user-images.githubusercontent.com/57966939/207690507-dbcd2365-10f8-4951-beb8-4db650549750.jpeg"  width="150" height="200" />
-I am not sure if he loves coding and data science like I do, but he loves chicken 🍗 and outside (for sure :D) !!
+Outside the classroom, I love bouldering, hiking, baking, film photography and hanging out with my dog 🐶 Kimchi! <img src="https://user-images.githubusercontent.com/57966939/207690507-dbcd2365-10f8-4951-beb8-4db650549750.jpeg"  width="150" height="200" />
+I am not sure if he loves coding and data science like I do, but he loves chicken 🍗 and loooong walk outside and shniff around !!
